@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 554E-4780
+
+ Directory of C:\Users\Pooja\Desktop\Myproject1
+
+07-10-2019  06:27    <DIR>          .
+07-10-2019  06:27    <DIR>          ..
+07-10-2019  06:27                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,574,883,840 bytes free
